@@ -1,0 +1,11 @@
+.max-hight  img {
+    max-height: 300px;
+    margin-bottom: 20px;
+  }
+
+ .logo{
+  max-height: 50px;
+  max-width: 200px;
+  margin-left: 5px;
+  margin-top: 5px;
+ } 

@@ -1,0 +1,21 @@
+.Navcss {
+    position:fixed;
+    background-color:transparent;
+}
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 10%;
+  }
+
+@media screen and (max-width: 570px) {
+    .icon1{
+        /* margin-left: 10px; */
+        /* color: aqua ; */
+        text-align: end;
+        margin-top: -200px;
+        margin-right: 10px;
+        
+    }
+  }
+  
